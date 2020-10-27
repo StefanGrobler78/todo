@@ -19,5 +19,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Stefan Grobler",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanGrobler78/todo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/StefanGrobler78/todo/issues"
+  },
+  "homepage": "https://github.com/StefanGrobler78/todo#readme"
 }
