@@ -1,5 +1,5 @@
 {
-  "name": "todo",
+  "name": "project",
   "dependencies": {
     "react": "16.4.0",
     "react-dom": "16.4.0"
@@ -14,18 +14,5 @@
   "scripts": {
     "build": "webpack",
     "watch": "webpack -w"
-  },
-  "description": "return this.options.title || this.options.name; \t}",
-  "version": "1.0.0",
-  "main": "index.js",
-  "author": "Stefan Grobler",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/StefanGrobler78/todo.git"
-  },
-  "bugs": {
-    "url": "https://github.com/StefanGrobler78/todo/issues"
-  },
-  "homepage": "https://github.com/StefanGrobler78/todo#readme"
+  }
 }
